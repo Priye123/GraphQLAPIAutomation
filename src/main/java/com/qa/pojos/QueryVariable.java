@@ -2,7 +2,7 @@ package com.qa.pojos;
 
 /**
  * POJO for QueryVariable
- * @author naveenautomationlabs
+ * @author Priye Ranjan
  *
  */
 public class QueryVariable {

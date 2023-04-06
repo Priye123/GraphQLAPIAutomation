@@ -9,9 +9,9 @@ public class Fun {
 
 	}
 
-	public void sun() {
+	public void sun1() {
 
-		System.out.println("this is naveen sun");
+		System.out.println("this is priye sun");
 
 	}
 	

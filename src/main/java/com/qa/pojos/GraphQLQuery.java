@@ -2,7 +2,7 @@ package com.qa.pojos;
 
 /**
  * This is the main POJO class for complete query and json variable
- * @author naveenautomationlabs
+ * @author Priye Ranjan
  *
  */
 public class GraphQLQuery {
